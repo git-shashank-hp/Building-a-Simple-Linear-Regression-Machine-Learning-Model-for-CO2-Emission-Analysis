@@ -144,6 +144,6 @@ There are different model evaluation metrics, lets use MSE here to calculate the
 * R-squared is not an error, but rather a popular metric to measure the performance of your regression model. It represents how close the data points are to the fitted regression line. The higher the R-squared value, the better the model fits your data. The best possible score is 1.0 and it can be negative (because the model can be arbitrarily worse).
 
 
-*Mean absolute error: 30.52*
-*Residual sum of squares (MSE): 1589.92*
-*R2-score: 0.63*
+### Mean absolute error: 30.52
+### Residual sum of squares (MSE): 1589.92
+### R2-score: 0.63
